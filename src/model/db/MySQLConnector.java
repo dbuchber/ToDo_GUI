@@ -1,3 +1,7 @@
+package model.db;
+
+import model.db.AbstractDatabase;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;

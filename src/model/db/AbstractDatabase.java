@@ -1,3 +1,5 @@
+package model.db;
+
 import java.sql.Connection;
 
 public abstract class AbstractDatabase implements IDatabase {
